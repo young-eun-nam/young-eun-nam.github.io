@@ -68,8 +68,9 @@ content:
 #         quote: >
 #           Pohang University of Science and Technology
         description: | # this will include new lines to allow paragraphs
-          *Pohang University of Science and Technology*
+          *Pohang University of Science and Technology* | 
           Industrial and Management Engineering
+
       - layout: left
         title: KAIST
         sub_title: M.S
@@ -77,8 +78,8 @@ content:
 #         quote: >
 #            Korea Advanced Institute of Science and Technology
         description: | # this will include new lines to allow paragraphs
-          *Korea Advanced Institute of Science and Technology*
-          Industrial and System Engineering
+          *Korea Advanced Institute of Science and Technology* | 
+          Industrial and System Engineering | 
           Data Mining Lab advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
 
   - title: Experience
@@ -112,7 +113,7 @@ content:
 #         quote: >
 #           Storage-based Platform Model Business Idea Research Project
         description: | # this will include new lines to allow paragraphs
-          Storage-based platform model business idea research project.
+          Storage-based platform model business idea research project. | 
           Platform proposal that provides new value to storage consumers.
 
 #   - title: A Little More About Me
