@@ -62,13 +62,21 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: POSTECH (Pohang University of Science and Technology)
+        sub_title: Industrial and Management Engineering (B.S)
+        caption: 2013.03 - 2017.02
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+      - layout: top-right
+        title: KAIST (Korea Advanced Institute of Science and Technology)
+        sub_title: Industrial and System Engineering (M.S)
+        caption: 2020.03 - 2022.02
+        quote: >
+          Data Mining Lab advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification      
 
   - title: Experience
     layout: list
@@ -101,7 +109,8 @@ content:
 #         quote: >
 #           Storage-based Platform Model Business Idea Research Project
         description: | # this will include new lines to allow paragraphs
-          The project is about the storage-based platform model business idea research project. Platform proposal that provides new value to storage consumers
+          Storage-based platform model business idea research project. |
+          Platform proposal that provides new value to storage consumers.
 
 #   - title: A Little More About Me
 #     layout: text
