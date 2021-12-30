@@ -61,27 +61,27 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: POSTECH (Pohang University of Science and Technology)
         sub_title: Industrial and Management Engineering (B.S)
         caption: 2013.03 - 2017.02
-        quote: >
-          Short institution or course description (optional)
+#         quote: >
+#           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-      - layout: top-right
+      - layout: left
         title: KAIST (Korea Advanced Institute of Science and Technology)
         sub_title: Industrial and System Engineering (M.S)
         caption: 2020.03 - 2022.02
-        quote: >
-          Data Mining Lab advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
+#         quote: >
+#           Data Mining Lab advised by Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification      
+          Data Mining Lab advised by Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
 
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
