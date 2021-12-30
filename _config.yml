@@ -98,17 +98,17 @@ content:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Storage-based Platform Model Business Idea Research Project
+#         quote: >
+#           Storage-based Platform Model Business Idea Research Project
         description: | # this will include new lines to allow paragraphs
-          Platform proposal that provides new value to storage consumers
+          The project is about the storage-based platform model business idea research project. Platform proposal that provides new value to storage consumers
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#   - title: A Little More About Me
+#     layout: text
+#     content: | # this will include new lines to allow paragraphs
+#       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
