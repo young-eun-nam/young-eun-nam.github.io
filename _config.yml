@@ -53,7 +53,7 @@ youtube_username: UCZd-VqGGaK48aIT6nFARtfg
 about_profile_image: images/profile_black.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I am Youngeun Nam. I am a PhD student in [Data Mining Lab](https://www.kaistdmlab.org/) at KAIST.
-  I majored in <mark>data mining</mark>. Data mining is a process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.
+  <mark>Data mining</mark> is a process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.
   Recently, I am studying outlier detection using deep learning in time-series data.
   Furthermore, I am particularly interested in the sports domain, and I have worked as a data analyst at a sports data analysis company, named Fitogeter.
 
@@ -83,7 +83,20 @@ content:
           
           Industrial and System Engineering
           
-          Data Mining Lab advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
+          [Data Mining Lab](https://www.kaistdmlab.org/) advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
+
+      - layout: left
+        title: KAIST
+        sub_title: Ph.D
+        caption: 2022.03 - Present
+#         quote: >
+#            Korea Advanced Institute of Science and Technology
+        description: | # this will include new lines to allow paragraphs
+          *Korea Advanced Institute of Science and Technology*
+          
+          School of Computing
+          
+          [Data Mining Lab](https://www.kaistdmlab.org/) advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
 
   - title: Experience
     layout: list
