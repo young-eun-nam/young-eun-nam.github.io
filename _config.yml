@@ -99,14 +99,34 @@ content:
     layout: list
     content:
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Hyundai Autoever
+        sub_title: Software Engineer
+        caption: 2017.01 - 2017.12
+        link: https://www.hyundai-autoever.com
+#         quote: >
+#           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Working at Hyundai Autoever IT Jobs Finance Team (Hyundai Card, Capital, Commercial). 
+          
+          ‘Hyundai Card/Capital/Commercial Blockchain Platform Construction and Service Challenge Implementation’ Project Developer.
+
+      - layout: left
+        title: Fitogether Inc.
+        sub_title: Software Engineer
+        caption: 2018.09 - 2019.11
+        link: https://www.fitogether.com
+        quote: >
+          Fitogether, Innovating the Sports Culture Using IT Technology.
+        description: | # this will include new lines to allow paragraphs
+          Based on an wearable EPTS with own technology, Fitogether measures player / team data during sports (association football) activities, and runs an analytics service ‘OhCoach’ using the data.
+          
+          - Internated at a sports data analysis startup and produced manuals for Fitogether 'Ohcoach' service users at the '2018 K League U17/U18 Championship'.
+          
+          - Creating crawling module with basic and detail information about K League K1, K2, R League and ACL competition.
+          
+          - Creating the'Register' module, the foundation for data analysis using the Python language, and Impletenting the algorithm.
+          
+          In particular, I felt interesting about the experiences that I experienced on sports and contributed to the launch of a soccer data analysis web service.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -129,6 +149,22 @@ content:
           Storage-based platform model business idea research project.
           
           Platform proposal that provides new value to storage consumers.
+
+      - layout: left
+        title: Hyundai Card
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         quote: >
+#           Storage-based Platform Model Business Idea Research Project
+        description: | # this will include new lines to allow paragraphs
+          Hyundai Card/Capital/Commercial Blockchain Platform Construction and Service Task Implementation.
 
 #   - title: A Little More About Me
 #     layout: text
