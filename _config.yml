@@ -68,7 +68,8 @@ content:
 #         quote: >
 #           Pohang University of Science and Technology
         description: | # this will include new lines to allow paragraphs
-          *Pohang University of Science and Technology* | 
+          *Pohang University of Science and Technology*
+          
           Industrial and Management Engineering
 
       - layout: left
@@ -78,8 +79,10 @@ content:
 #         quote: >
 #            Korea Advanced Institute of Science and Technology
         description: | # this will include new lines to allow paragraphs
-          *Korea Advanced Institute of Science and Technology* | 
-          Industrial and System Engineering | 
+          *Korea Advanced Institute of Science and Technology*
+          
+          Industrial and System Engineering
+          
           Data Mining Lab advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
 
   - title: Experience
