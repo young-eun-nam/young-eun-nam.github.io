@@ -169,9 +169,9 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Kim, M., Kang, J., Kim, D., Song, H., Min, H., **Nam, Y.**, Park, D. Lee, J. {Hi-COVIDNet}: Deep Learning Approach to Predict Inbound {COVID-19} Patients and Case Study in South Korea. Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020.
+      - Kim, M., Kang, J., Kim, D., Song, H., Min, H., **Nam, Y.**, Park, D. Lee, J. Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea. Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3412864) [[Video]](https://dl.acm.org/doi/10.1145/3394486.3412864#sec-supp)
       
-      - **Nam, Y.**, Kang, J., Lee, J. ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning. 한국정보과학회. 2021.
+      - **Nam, Y.**, Kang, J., Lee, J. ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning. 한국정보과학회. 2021. [[Paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583011) [[Slide]](https://drive.google.com/file/d/1HWJi7hnQWUM_oowsOxCK6RnJd37WU6Pk/view?usp=sharing)
 
 #   - title: A Little More About Me
 #     layout: text
