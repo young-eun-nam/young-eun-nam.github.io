@@ -118,13 +118,13 @@ content:
         quote: >
           Fitogether, Innovating the Sports Culture Using IT Technology.
         description: | # this will include new lines to allow paragraphs
-          Based on an wearable EPTS with own technology, Fitogether measures player / team data during sports (association football) activities, and runs an analytics service ‘OhCoach’ using the data.
+          Based on a wearable EPTS with own technology, Fitogether measures player / team data during sports (association football) activities, and runs an analytics service ‘OhCoach’ using the data.
           
           - Internated at a sports data analysis startup and produced manuals for Fitogether 'Ohcoach' service users at the '2018 K League U17/U18 Championship'.
           
           - Creating crawling module with basic and detail information about K League K1, K2, R League and ACL competition.
           
-          - Creating the 'Register' module, the foundation for data analysis using the Python language, and Impletenting the algorithm.
+          - Creating the 'Register' module, the foundation for data analysis using the Python language, and implementing the algorithm.
           
           In particular, I felt interesting about the experiences that I experienced on sports and contributed to the launch of a soccer data analysis web service.
 
