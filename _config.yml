@@ -132,7 +132,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
     # location (top-right/right/left/top-middle)
-      - layout: right
+      - layout: left
         title: Samsung SDS
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
@@ -150,7 +150,7 @@ content:
           
           Platform proposal that provides new value to storage consumers.
 
-      - layout: right
+      - layout: left
         title: Hyundai Card
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
@@ -169,9 +169,9 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Kim, M., Kang, J., Kim, D., Song, H., Min, H., **Nam, Y.**, Park, D. Lee, J. {Hi-COVIDNet}: Deep Learning Approach to Predict Inbound {COVID-19} Patients and Case Study in South Korea. Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020.
-    content: | # this will include new lines to allow paragraphs
-      **Nam, Y.**, Kang, J., Lee, J. ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning. 한국정보과학회. 2021.
+      - Kim, M., Kang, J., Kim, D., Song, H., Min, H., **Nam, Y.**, Park, D. Lee, J. {Hi-COVIDNet}: Deep Learning Approach to Predict Inbound {COVID-19} Patients and Case Study in South Korea. Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020.
+      
+      - **Nam, Y.**, Kang, J., Lee, J. ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning. 한국정보과학회. 2021.
 
 #   - title: A Little More About Me
 #     layout: text
