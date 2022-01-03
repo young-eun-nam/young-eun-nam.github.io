@@ -16,7 +16,7 @@ website: https://bit.ly/maradonam
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: jekyllrb
@@ -112,7 +112,7 @@ content:
 
       - layout: left
         title: Fitogether Inc.
-        sub_title: Software Engineer
+        sub_title: Data Analyst
         caption: 2018.09 - 2019.11
         link: https://www.fitogether.com
         quote: >
@@ -124,7 +124,7 @@ content:
           
           - Creating crawling module with basic and detail information about K League K1, K2, R League and ACL competition.
           
-          - Creating the'Register' module, the foundation for data analysis using the Python language, and Impletenting the algorithm.
+          - Creating the 'Register' module, the foundation for data analysis using the Python language, and Impletenting the algorithm.
           
           In particular, I felt interesting about the experiences that I experienced on sports and contributed to the launch of a soccer data analysis web service.
 
@@ -132,7 +132,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
     # location (top-right/right/left/top-middle)
-      - layout: left
+      - layout: top-middle
         title: Samsung SDS
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
@@ -150,10 +150,10 @@ content:
           
           Platform proposal that provides new value to storage consumers.
 
-      - layout: left
+      - layout: top-middle
         title: Hyundai Card
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
 #         additional_links:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
@@ -165,6 +165,13 @@ content:
 #           Storage-based Platform Model Business Idea Research Project
         description: | # this will include new lines to allow paragraphs
           Hyundai Card/Capital/Commercial Blockchain Platform Construction and Service Task Implementation.
+
+  - title: Publication
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 #   - title: A Little More About Me
 #     layout: text
