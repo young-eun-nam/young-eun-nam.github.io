@@ -78,9 +78,9 @@ content:
 #         quote: >
 #            Korea Advanced Institute of Science and Technology
         description: | # this will include new lines to allow paragraphs
-          *Korea Advanced Institute of Science and Technology*
+          *Korea Advanced Institute of Science and Technology* |
           
-           | Industrial and System Engineering (Knowledge Service Engineering)
+          Industrial and System Engineering (Knowledge Service Engineering)
           
           [Data Mining Lab](https://www.kaistdmlab.org/) advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
 
