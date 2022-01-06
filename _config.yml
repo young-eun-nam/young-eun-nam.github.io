@@ -135,6 +135,22 @@ content:
     content:
     # location (top-right/right/left/top-middle)
       - layout: left
+        title: Samsung Mobile Experience
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          KAIST (Jun. 2021 - present)
+        description: | # this will include new lines to allow paragraphs
+          -	Real-time service incident prediction development.
+          
+      - layout: left
         title: Samsung SDS
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
@@ -145,15 +161,15 @@ content:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#         quote: >
-#           Storage-based Platform Model Business Idea Research Project
+        quote: >
+          SNU (Aug. 2018 - Jul. 2018)
         description: | # this will include new lines to allow paragraphs
           Storage-based platform model business idea research project.
           
           Platform proposal that provides new value to storage consumers.
-
+          
       - layout: left
-        title: Hyundai Card
+        title: Hyundai Card/Capital/Commercial
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -163,10 +179,10 @@ content:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#         quote: >
-#           Storage-based Platform Model Business Idea Research Project
+        quote: >
+          Hyundai Autoever (Jun. 2017 - Dec. 2017)
         description: | # this will include new lines to allow paragraphs
-          Hyundai Card/Capital/Commercial Blockchain Platform Construction and Service Task Implementation.
+          Hyundai Card/Capital/Commercial Blockchain Platform Construction and Service Task Implementation.          
 
   - title: Publication
     layout: text
