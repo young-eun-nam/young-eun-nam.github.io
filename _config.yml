@@ -62,15 +62,17 @@ content:
     layout: list
     content:
       - layout: left
-        title: POSTECH
-        sub_title: B.S
-        caption: 2013.03 - 2017.02
+        title: KAIST
+        sub_title: Ph.D.
+        caption: 2022.03 - Present
 #         quote: >
-#           Pohang University of Science and Technology
+#            Korea Advanced Institute of Science and Technology
         description: | # this will include new lines to allow paragraphs
-          *Pohang University of Science and Technology*
-          | Industrial and Management Engineering
-
+          *Korea Advanced Institute of Science and Technology*
+          | School of Computing
+          
+          [Data Mining Lab](https://www.kaistdmlab.org/) advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
+          
       - layout: left
         title: KAIST
         sub_title: M.S
@@ -86,32 +88,20 @@ content:
           [Data Mining Lab](https://www.kaistdmlab.org/) advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
 
       - layout: left
-        title: KAIST
-        sub_title: Ph.D.
-        caption: 2022.03 - Present
+        title: POSTECH
+        sub_title: B.S
+        caption: 2013.03 - 2017.02
 #         quote: >
-#            Korea Advanced Institute of Science and Technology
+#           Pohang University of Science and Technology
         description: | # this will include new lines to allow paragraphs
-          *Korea Advanced Institute of Science and Technology*
-          | School of Computing
-          
-          [Data Mining Lab](https://www.kaistdmlab.org/) advised by [Jae-Gil Lee](https://dm.kaist.ac.kr/jaegil/)
+          *Pohang University of Science and Technology*
+          | Industrial and Management Engineering
+
 
   - title: Experience
     layout: list
     content:
-      - layout: left
-        title: Hyundai Autoever
-        sub_title: Software Engineer
-        caption: 2017.01 - 2017.12
-        link: https://www.hyundai-autoever.com
-        quote: >
-          Hyundai AutoEver leads a paradigm shift for the future of the 4th industrial revolution.
-        description: | # this will include new lines to allow paragraphs
-          Working at Hyundai Autoever IT Jobs Finance Team (Hyundai Card, Capital, Commercial). 
-          
-          ‘Hyundai Card/Capital/Commercial Blockchain Platform Construction and Service Challenge Implementation’ Project Developer.
-
+    
       - layout: left
         title: Fitogether Inc.
         sub_title: Data Analyst
@@ -128,6 +118,18 @@ content:
           - Creating crawling module with detailed information about K League K1, K2, R League, and ACL competition.
           
           - Creating the 'Register' module, the foundation for data analysis using Python, and implementing the algorithm.
+          
+      - layout: left
+        title: Hyundai Autoever
+        sub_title: Software Engineer
+        caption: 2017.01 - 2017.12
+        link: https://www.hyundai-autoever.com
+        quote: >
+          Hyundai AutoEver leads a paradigm shift for the future of the 4th industrial revolution.
+        description: | # this will include new lines to allow paragraphs
+          Working at Hyundai Autoever IT Jobs Finance Team (Hyundai Card, Capital, Commercial). 
+          
+          ‘Hyundai Card/Capital/Commercial Blockchain Platform Construction and Service Challenge Implementation’ Project Developer.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -192,9 +194,10 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - **Nam, Y.**, Kang, J., Lee, J. ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning. Korea Computer Congress. 2021. [[Paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583011) [[Slide]](https://drive.google.com/file/d/1HWJi7hnQWUM_oowsOxCK6RnJd37WU6Pk/view?usp=sharing)    
+    
       - Kim, M., Kang, J., Kim, D., Song, H., Min, H., **Nam, Y.**, Park, D. Lee, J. Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea. Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3412864) [[Video]](https://dl.acm.org/doi/10.1145/3394486.3412864#sec-supp)
       
-      - **Nam, Y.**, Kang, J., Lee, J. ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning. Korea Computer Congress. 2021. [[Paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583011) [[Slide]](https://drive.google.com/file/d/1HWJi7hnQWUM_oowsOxCK6RnJd37WU6Pk/view?usp=sharing)
 
 #   - title: A Little More About Me
 #     layout: text
