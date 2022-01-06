@@ -148,7 +148,7 @@ content:
         quote: >
           KAIST (Jun. 2021 - present)
         description: | # this will include new lines to allow paragraphs
-          -	Real-time service incident prediction development.
+          Real-time service incident prediction development.
           
       - layout: left
         title: Samsung SDS
@@ -169,7 +169,7 @@ content:
           Platform proposal that provides new value to storage consumers.
           
       - layout: left
-        title: Hyundai Card/Capital/Commercial
+        title: Hyundai Card
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
