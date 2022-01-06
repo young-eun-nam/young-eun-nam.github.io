@@ -135,6 +135,8 @@ content:
     # location (top-right/right/left/top-middle)
       - layout: left
         title: Samsung Mobile Experience
+        sub_title: KAIST
+        caption: Jun. 2021 - present
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -144,13 +146,15 @@ content:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          KAIST (Jun. 2021 - present)
+#         quote: >
+#           KAIST (Jun. 2021 - present)
         description: | # this will include new lines to allow paragraphs
           Real-time service incident prediction development.
           
       - layout: left
         title: Samsung SDS
+        sub_title: SNU
+        caption: Aug. 2018 - Jul. 2018
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -160,8 +164,8 @@ content:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          SNU (Aug. 2018 - Jul. 2018)
+#         quote: >
+#           SNU (Aug. 2018 - Jul. 2018)
         description: | # this will include new lines to allow paragraphs
           Storage-based platform model business idea research project.
           
@@ -169,6 +173,8 @@ content:
           
       - layout: left
         title: Hyundai Card
+        sub_title: Hyundai Autoever
+        caption: Jun. 2017 - Dec. 2017
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -178,8 +184,8 @@ content:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Hyundai Autoever (Jun. 2017 - Dec. 2017)
+#         quote: >
+#           Hyundai Autoever (Jun. 2017 - Dec. 2017)
         description: | # this will include new lines to allow paragraphs
           Hyundai Card/Capital/Commercial Blockchain Platform Construction and Service Task Implementation.          
 
