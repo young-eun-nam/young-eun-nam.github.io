@@ -155,7 +155,7 @@ content:
           
       - layout: left
         title: Samsung SDS
-        sub_title: SNU
+        sub_title: Seoul National University
         caption: Aug. 2018 - Jul. 2018
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
@@ -167,7 +167,7 @@ content:
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         quote: >
-#           SNU (Aug. 2018 - Jul. 2018)
+#           Seoul National University (Aug. 2018 - Jul. 2018)
         description: | # this will include new lines to allow paragraphs
           Storage-based platform model business idea research project.
           
