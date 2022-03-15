@@ -194,7 +194,7 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Kim, D., Min, H., **Nam, Y., Song, H., Yoon, S., Kim, M., Lee, J. COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies. The Thirty-Sixth AAAI Conference on Artificial Intelligence. 2022. [[Paper]]() [[Video]]()
+      - Kim, D., Min, H., **Nam, Y.**, Song, H., Yoon, S., Kim, M., Lee, J. COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies. The Thirty-Sixth AAAI Conference on Artificial Intelligence. 2022. [[Paper]]() [[Video]]()
       
       - **Nam, Y.**, Kang, J., Lee, J. ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning. Korea Computer Congress. 2021. [[Paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583011) [[Slide]](https://drive.google.com/file/d/1HWJi7hnQWUM_oowsOxCK6RnJd37WU6Pk/view?usp=sharing)    
     
