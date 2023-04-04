@@ -194,6 +194,8 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - Trirat, P., **Nam, Y.**, Kim, T., and Lee, J., AnoViz: A Visual Inspection Tool of Anomalies in Multivariate Time Series. The Thirty-Sixth AAAI Conference on Artificial Intelligence. (Demonstration Program) 2023. [[Paper]](https://www.aaai.org/AAAI22Papers/AISI-1959.KimD.pdf) [[Video]](https://youtu.be/fOHZO3xiMAA) [[Poster]](https://time-cad.web.app/files/AnoViz_AAAI23_Poster.pdf) [[Live Demo]](https://time-cad.web.app/)
+    
       - Kim, D., Min, H., **Nam, Y.**, Song, H., Yoon, S., Kim, M., Lee, J. COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies. The Thirty-Sixth AAAI Conference on Artificial Intelligence. 2022. [[Paper]](https://www.aaai.org/AAAI22Papers/AISI-1959.KimD.pdf) [[Video]](https://aaai-2022.virtualchair.net/poster_aisi1959)
       
       - **Nam, Y.**, Kang, J., Lee, J. ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning. Korea Computer Congress. 2021. [[Paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583011) [[Slide]](https://drive.google.com/file/d/1HWJi7hnQWUM_oowsOxCK6RnJd37WU6Pk/view?usp=sharing)    
