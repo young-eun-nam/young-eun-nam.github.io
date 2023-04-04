@@ -191,7 +191,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Hyundai Card/Capital/Commercial Blockchain Platform Construction and Service Task Implementation.          
 
-  - title: Publication
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Trirat, P., **Nam, Y.**, Kim, T., and Lee, J., AnoViz: A Visual Inspection Tool of Anomalies in Multivariate Time Series. The Thirty-Seventh AAAI Conference on Artificial Intelligence. (Demonstration Program) 2023. [[Paper]](https://young-eun-nam.github.io/assets/AnoViz_AAAI23.pdf) [[Video]](https://youtu.be/fOHZO3xiMAA) [[Poster]](https://time-cad.web.app/files/AnoViz_AAAI23_Poster.pdf) [[Live Demo]](https://time-cad.web.app/)
