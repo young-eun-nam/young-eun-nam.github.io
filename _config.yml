@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile_black.jpeg
+about_profile_image: images/profile_color.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I am Youngeun Nam. I am a Ph.D. student in [Data Mining Lab](https://www.kaistdmlab.org/) at KAIST.
   <mark>Data mining</mark> is a process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.
