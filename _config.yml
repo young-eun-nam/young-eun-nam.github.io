@@ -194,7 +194,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Nam, Y.**, Trirat, P., Kim, T., Lee, Y., and Lee, J., Context-Aware Deep Time-Series Decomposition for Anomaly Detection in Businesses. Proceedings of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD). 2023.
+      - **Nam, Y.**, Trirat, P., Kim, T., Lee, Y., and Lee, J., Context-Aware Deep Time-Series Decomposition for Anomaly Detection in Businesses. Proceedings of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD). 2023. [[Preprint Paper]](https://young-eun-nam.github.io/assets/TimeCAD_ECML23.pdf)
       
       - Trirat, P., **Nam, Y.**, Kim, T., and Lee, J., AnoViz: A Visual Inspection Tool of Anomalies in Multivariate Time Series. The Thirty-Seventh AAAI Conference on Artificial Intelligence (Demonstration Program). 2023. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27088) [[Video]](https://youtu.be/fOHZO3xiMAA) [[Poster]](https://time-cad.web.app/files/AnoViz_AAAI23_Poster.pdf) [[Live Demo]](https://time-cad.web.app/)
     
