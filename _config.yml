@@ -138,7 +138,25 @@ content:
       - layout: left
         title: Samsung Mobile Experience
         sub_title: KAIST
-        caption: Jun. 2021 - present
+        caption: Jul. 2022 - Jul. 2023
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         quote: >
+#           KAIST (Jun. 2021 - present)
+        description: | # this will include new lines to allow paragraphs
+          Few-shot Anomaly Detection and Root Cause Estimation development.
+    
+      - layout: left
+        title: Samsung Mobile Experience
+        sub_title: KAIST
+        caption: Jun. 2021 - Jun. 2022
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
