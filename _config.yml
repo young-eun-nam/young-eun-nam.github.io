@@ -212,7 +212,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Nam, Y.**, Yoon, S., Shin, Y., Bae, M., Song, H., Lee, J., and Lee, B. S., Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection. International World Wide Web Conference (TheWebConf), Singapore, Singapore, 2024.
+      - **Nam, Y.**, Yoon, S., Shin, Y., Bae, M., Song, H., Lee, J., and Lee, B. S., Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection. International World Wide Web Conference (WWW), Singapore, Singapore, 2024.
       
       - **Nam, Y.**, Trirat, P., Kim, T., Lee, Y., and Lee, J., Context-Aware Deep Time-Series Decomposition for Anomaly Detection in Businesses. Proceedings of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD). Torino, Italy, 2023. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_20) [[Slide]](https://drive.google.com/file/d/1pxG7E8gIt9thUaMg37d-IHHf_w9xY2bn/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1pc9TtAlnm-RbeQlwgsc2eMNIMLUwDsmN/view?usp=drive_link)
       
@@ -236,7 +236,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Program Committee
-        - The ACM Web Conference (WWW): 2024
+        - International World Wide Web Conference (WWW): 2024
       
       
 #   - title: A Little More About Me
