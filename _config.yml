@@ -214,7 +214,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Bae, M., Shin, Y., **Nam, Y.**, Lee, Y., and Lee, J., Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate. Proceedings of the 30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Barcelona, Spain, 2024.
     
-      - **Nam, Y.**, Yoon, S., Shin, Y., Bae, M., Song, H., Lee, J., and Lee, B. S., Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection. International World Wide Web Conference (WWW), Singapore, Singapore, 2024.
+      - **Nam, Y.**, Yoon, S., Shin, Y., Bae, M., Song, H., Lee, J., and Lee, B. S., Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection. International World Wide Web Conference (WWW), Singapore, Singapore, 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645556) [[Video]](https://www.youtube.com/watch?v=CZaEV9WMHt4) [[Poster]](https://drive.google.com/file/d/1Iv9kcZ392xonZHn9SsCvrCBiW-_HIW9G/view?usp=sharing)
       
       - **Nam, Y.**, Trirat, P., Kim, T., Lee, Y., and Lee, J., Context-Aware Deep Time-Series Decomposition for Anomaly Detection in Businesses. Proceedings of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD). Torino, Italy, 2023. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_20) [[Slide]](https://drive.google.com/file/d/1pxG7E8gIt9thUaMg37d-IHHf_w9xY2bn/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1pc9TtAlnm-RbeQlwgsc2eMNIMLUwDsmN/view?usp=drive_link)
       
