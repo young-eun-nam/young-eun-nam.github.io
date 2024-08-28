@@ -52,11 +52,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/IMG_7861.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I am Youngeun Nam. I am a Ph.D. student in [Data Mining Lab](https://www.kaistdmlab.org/) at KAIST.
-  My academic journey is deeply rooted in the field of <mark>data mining</mark> which involves uncovering meaningful patterns and insights from vast and complex datasets.
+  Hello, I am Youngeun Nam. I am a Ph.D. candidate in [Data Mining Lab](https://www.kaistdmlab.org/) at KAIST.
+  My academic experience is deeply rooted in the field of <mark>data mining</mark> which involves uncovering meaningful patterns and insights from vast and complex datasets.
   Currently, my research is focused on exploring the potential of multi-modal data-centric deep learning across various domains.
-  This area of study is particularly exciting because it integrates and analyzes different types of data—such as images, text, and numerical data—simultaneously, leading to more robust and comprehensive models that can better understand and predict complex phenomena. My work aims to push the boundaries of what is possible with deep learning, particularly in the context of real-world applications.
-  In addition to my academic pursuits, I have a strong interest in applying these advanced data mining techniques to the sports domain, where data analysis is increasingly becoming a critical component of performance enhancement, strategic planning, and injury prevention.
+  This area of study is fascinating because it integrates and analyzes different types of data—such as images, text, and numerical data—simultaneously, leading to more robust and comprehensive models that can better understand and predict complex phenomena. My work aims to push the boundaries of what is possible with deep learning, particularly in the context of real-world applications.
+  In addition to my academic pursuits, I am strongly interested in applying these advanced data mining techniques to the sports domain, where data analysis is increasingly becoming a critical component of performance enhancement, strategic planning, and injury prevention.
   My passion for sports analytics has been further fueled by my professional experience as a data analyst at a leading sports data analysis company, named Fitogeter.
 
 content:
