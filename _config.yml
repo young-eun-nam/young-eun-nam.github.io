@@ -214,7 +214,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Bae, M., Shin, Y., **Nam, Y.**, Lee, Y., and Lee, J., Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate. Proceedings of the 30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Barcelona, Spain, 2024.
+      - Bae, M., Shin, Y., **Nam, Y.**, Lee, Y., and Lee, J., Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate. Proceedings of the 30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Barcelona, Spain, 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3672033) [[Video]](https://dl.acm.org/doi/suppl/10.1145/3637528.3672033/suppl_file/rtfp2354-video.mp4)
     
       - **Nam, Y.**, Yoon, S., Shin, Y., Bae, M., Song, H., Lee, J., and Lee, B. S., Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection. International World Wide Web Conference (WWW), Singapore, Singapore, 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645556) [[Video]](https://www.youtube.com/watch?v=CZaEV9WMHt4) [[Poster]](https://drive.google.com/file/d/1Iv9kcZ392xonZHn9SsCvrCBiW-_HIW9G/view?usp=sharing)
       
