@@ -36,7 +36,7 @@ linkedin_username: youngeunnam
 # Additional icon links
 additional_links:
 - title: Scholar
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-mortar-board
   url: https://scholar.google.com/citations?hl=ko&user=Cz1zyRsAAAAJ
 - title: CV
   icon: fa fa-file-pdf-o
