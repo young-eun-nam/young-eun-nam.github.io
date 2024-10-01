@@ -36,11 +36,11 @@ linkedin_username: youngeunnam
 # Additional icon links
 additional_links:
 - title: Scholar
-  icon: fa-brands fa-google-scholar
+  icon: fa-solid fa-graduation-cap
   url: https://scholar.google.com/citations?hl=ko&user=Cz1zyRsAAAAJ
-# - title: CV
-#   icon: fa fa-file-pdf-o
-#   url: https://young-eun-nam.github.io/assets/Youngeun_Nam_CV_2024.pdf
+- title: CV
+  icon: fa fa-file-pdf-o
+  url: https://young-eun-nam.github.io/assets/Youngeun_Nam_CV_2024.pdf
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
