@@ -218,7 +218,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - {Na, J., **Nam, Y.**}, Yoon, S., Song, H., Lee, J., and Lee, B. S., Mobility Networked Time-Series Forecasting Benchmark Datasets. International AAAI Conference on Web and Social Media (Posters, Demos, and Datasets). Copenhagen, Denmark, 2025.
+      - {Na, J., **Nam, Y.**}, Yoon, S., Song, H., Lee, J., and Lee, B. S., Mobility Networked Time-Series Forecasting Benchmark Datasets. International AAAI Conference on Web and Social Media (ICWSM Posters, Demos, and Datasets Track). Copenhagen, Denmark, 2025.
     
       - Bae, M., Shin, Y., **Nam, Y.**, Lee, Y., and Lee, J., Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate. Proceedings of the 30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Barcelona, Spain, 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3672033) [[Video]](https://dl.acm.org/doi/suppl/10.1145/3637528.3672033/suppl_file/rtfp2354-video.mp4)
     
