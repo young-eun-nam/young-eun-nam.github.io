@@ -219,11 +219,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
 
-      - **Youngeun Nam\* **, Jihye Na*, Susik Yoon, Hwanjun Song, Jae-Gil Lee, Byung Suk Lee, Bi-Modal Learning for Networked Time Series. Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Toronto, Canada, 2025. [To appear]
+      - **Youngeun Nam\***, Jihye Na*, Susik Yoon, Hwanjun Song, Jae-Gil Lee, Byung Suk Lee, Bi-Modal Learning for Networked Time Series. Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Toronto, Canada, 2025. [To appear]
       
       - Jihye Na, **Youngeun Nam**, Junhyeok Kang, Jae-Gil Lee, Mitigating Source Label Dependency in Time-Series Domain Adaptation under Label Shifts. Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Toronto, Canada, 2025. [To appear]
       
-      - Jihye Na*, **Youngeun Nam\* **, Susik Yoon, Hwanjun Song, Byung Suk Lee, Jae-Gil Lee, Mobility Networked Time-Series Forecasting Benchmark Datasets. International AAAI Conference on Web and Social Media (ICWSM Posters, Demos, and Datasets Track). Copenhagen, Denmark, 2025. [To appear]
+      - Jihye Na*, **Youngeun Nam\***, Susik Yoon, Hwanjun Song, Byung Suk Lee, Jae-Gil Lee, Mobility Networked Time-Series Forecasting Benchmark Datasets. International AAAI Conference on Web and Social Media (ICWSM Posters, Demos, and Datasets Track). Copenhagen, Denmark, 2025. [To appear]
     
       - Minyoung Bae, Yooju Shin, **Youngeun Nam**, Young Seop Lee, Jae-Gil Lee, Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate. Proceedings of the 30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Barcelona, Spain, 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3672033) [[Video]](https://dl.acm.org/doi/suppl/10.1145/3637528.3672033/suppl_file/rtfp2354-video.mp4)
     
@@ -231,11 +231,11 @@ content:
       
       - **Youngeun Nam**, Patara Trirat, Taeyoon Kim, Young Seop Lee, Jae-Gil Lee, Context-Aware Deep Time-Series Decomposition for Anomaly Detection in Businesses. Proceedings of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD). Torino, Italy, 2023. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_20) [[Slide]](https://drive.google.com/file/d/1pxG7E8gIt9thUaMg37d-IHHf_w9xY2bn/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1pc9TtAlnm-RbeQlwgsc2eMNIMLUwDsmN/view?usp=drive_link)
       
-      - Patara Trirat*, **Youngeun Nam\* **, Taeyoon Kim, Jae-Gil Lee, AnoViz: A Visual Inspection Tool of Anomalies in Multivariate Time Series. The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI Demonstration Program). Washington, DC, 2023. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27088) [[Video]](https://youtu.be/fOHZO3xiMAA) [[Poster]](https://time-cad.web.app/files/AnoViz_AAAI23_Poster.pdf) [[Live Demo]](https://time-cad.web.app/)
+      - Patara Trirat*, **Youngeun Nam\***, Taeyoon Kim, Jae-Gil Lee, AnoViz: A Visual Inspection Tool of Anomalies in Multivariate Time Series. The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI Demonstration Program). Washington, DC, 2023. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27088) [[Video]](https://youtu.be/fOHZO3xiMAA) [[Poster]](https://time-cad.web.app/files/AnoViz_AAAI23_Poster.pdf) [[Live Demo]](https://time-cad.web.app/)
     
       - Doyoung Kim, Hyangsuk Min, **Youngeun Nam**, Hwanjun Song, Susik Yoon, Minseok Kim, Jae-Gil Lee, COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies. The Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI). Virtual Event, 2022. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21455) [[Video]](https://aaai-2022.virtualchair.net/poster_aisi1959)
       
-      # - **Youngeun Nam**, Junhyeok Kang, Jae-Gil Lee, ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning. Korea Computer Congress. 2021. [[Paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583011) [[Slide]](https://drive.google.com/file/d/1HWJi7hnQWUM_oowsOxCK6RnJd37WU6Pk/view?usp=sharing)
+      - **Youngeun Nam**, Junhyeok Kang, Jae-Gil Lee, ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning. Korea Computer Congress. 2021. [[Paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583011) [[Slide]](https://drive.google.com/file/d/1HWJi7hnQWUM_oowsOxCK6RnJd37WU6Pk/view?usp=sharing)
     
       - Minseok Kim, Junhyeok Kang, Doyoung Kim, Hwanjun Song, Hyangsuk Min, **Youngeun Nam**, Dongmin Park, Jae-Gil Lee, Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea. Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD). Virtual Event, California, 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3412864) [[Video]](https://dl.acm.org/doi/10.1145/3394486.3412864#sec-supp)
 
