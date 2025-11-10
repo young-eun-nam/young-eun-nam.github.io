@@ -107,6 +107,21 @@ content:
   - title: Experience
     layout: list
     content:
+
+      - layout: left
+        title: LG AI Research
+        sub_title: Research Intern, Data Intelligence Lab
+        caption: 2025.09 - 2025.12
+        link: https://www.lgresearch.ai
+        quote: >
+          Data Intelligence Lab — Advancing Intelligent Systems through Deep Learning and Large-Scale Data Understanding.
+        description: |
+          Conducted research on AI-driven financial data processing and modeling.
+    
+          # - Developed SEC filing (10-K, 10-Q) parsing and information extraction modules.
+          - Built preprocessing pipelines for large-scale language model training and evaluation.  
+          - Supported time-series forecasting using structured and unstructured financial data.  
+          # - Worked in Linux-based distributed training environments with Git and workflow tools.
     
       - layout: left
         title: Fitogether Inc.
