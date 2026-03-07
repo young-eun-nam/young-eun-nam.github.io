@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-Doctoral Researcher @ <a href='https://www.kaistdmlab.org/'>KAIST Data Mining Lab</a>. Irreplaceable.
+subtitle: Post-Doctoral Researcher, <a href='https://www.kaistdmlab.org/'>KAIST Data Mining Lab</a>. Irreplaceable.
 
 profile:
   align: right
