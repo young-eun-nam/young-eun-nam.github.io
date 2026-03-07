@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Post-Doctoral Researcher @ <a href='https://www.kaistdmlab.org/'>KAIST Data Mining Lab</a>. Irreplaceable.
 
 profile:
   align: right
