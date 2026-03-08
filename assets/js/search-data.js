@@ -450,18 +450,18 @@ ninja.data = [{
           window.open("mailto:%79%6F%75%6E%67%65%75%6E.%6E%61%6D@%6B%61%69%73%74.%61%63.%6B%72", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=Cz1zyRsAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/youngeunnam", "_blank");
         },
       },{
       id: 'light-theme',
