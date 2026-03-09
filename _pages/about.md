@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Fellow at the University of Toronto, where I work in the [OptiMaL Lab](https://optimal.mie.utoronto.ca) with [Prof. Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen/) on `data-centric` machine learning for real-world problems. My research focuses on improving the data quality, reliability, and efficiency of learning systems, while exploring how agentic AI can make these systems more adaptive and robust in practice.
+I am a Postdoctoral Fellow at the University of Toronto, where I work with [Prof. Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen/) in the [OptiMaL Lab](https://optimal.mie.utoronto.ca) on `data-centric` machine learning for real-world problems. My research focuses on improving the quality, reliability, and efficiency of data and learning systems, and I am also interested in `agentic AI` for building more adaptive and robust models in practice.
 
 Before joining the University of Toronto, I completed my Ph.D. in Computer Science at KAIST, where I was advised by [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil) in the [Data Mining Lab](https://www.kaistdmlab.org). I have industry experience from roles in software engineering, data analytics, and AI research, which continues to shape my interest in bridging algorithmic advances with deployable, trustworthy systems.
 
