@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-Doctoral Researcher, <a href='https://www.kaistdmlab.org/'>KAIST Data Mining Lab</a>. Irreplaceable.
+subtitle: Postdoctoral Fellow, <a href='https://optimal.mie.utoronto.ca'>University of Toronto, OptiMaL Lab</a>. Irreplaceable.
 
 profile:
   align: right
@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Fellow at the University of Toronto, where I work in the [OptiMaL Lab](https://optimal.mie.utoronto.ca) with [Prof. Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen/) on `data-centric` machine learning for real-world problems. My research focuses on improving the data quality, reliability, and efficiency of learning systems, while exploring how agentic AI can make these systems more adaptive and robust in practice.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining the University of Toronto, I completed my Ph.D. in Computer Science at KAIST, where I was advised by [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil) in the [Data Mining Lab](https://www.kaistdmlab.org). I have industry experience from roles in software engineering, data analytics, and AI research, which continues to shape my interest in bridging algorithmic advances with deployable, trustworthy systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My long-term goal is to develop next-generation learning systems that are accurate and dependable under real operational constraints, helping narrow the gap between research and applications.
