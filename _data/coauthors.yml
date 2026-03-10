@@ -32,3 +32,28 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"yoon":
+  - firstname: ["Susik"]
+    url: https://dais.korea.ac.kr/team/susik-yoon
+
+"song":
+  - firstname: ["Hwanjun"]
+    url: https://disl-lab.github.io/
+
+"kim":
+  - firstname: ["Minseok"]
+    url: https://minseokkim.net/
+
+"park":
+  - firstname: ["Dongmin"]
+    url: https://dongmean.github.io/
+
+"kang":
+  - firstname: ["Junhyeok"]
+    url: https://sites.google.com/view/junhyeok-kang
+
+"trirat":
+  - firstname: ["Patara"]
+    url: https://itouchz.github.io/
+
