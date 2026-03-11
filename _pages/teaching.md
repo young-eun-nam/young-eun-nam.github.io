@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching assistant
 description: # Course materials, schedules, and resources for classes taught.
 nav: true
+nav_title: teaching
 nav_order: 6
 calendar: true
 ---
