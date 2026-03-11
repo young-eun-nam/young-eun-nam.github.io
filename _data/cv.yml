@@ -14,11 +14,11 @@ cv:
       username: Cz1zyRsAAAAJ
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 27 King's College Cir
+    city: Toronto
+    region: ON
+    postalCode: M5S 1A1
+    countryCode: CA
 
   sections:
     Education:
@@ -29,7 +29,7 @@ cv:
         start_date: 2022-03
         end_date: 2026-02
         highlights:
-          - Advisor: Prof. Jae-Gil Lee
+          - Under the supervision of [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil)
           - Data mining
 
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
@@ -39,12 +39,12 @@ cv:
         start_date: 2020-03
         end_date: 2022-02
         highlights:
-          - Advisor: Prof. Jae-Gil Lee
+          - Under the supervision of [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil)
 
       - institution: Pohang University of Science and Technology (POSTECH)
         location: Pohang, Korea
         area: Industrial and Management Engineering
-        studyType: B.S. (Cum Laude)
+        studyType: B.S.
         start_date: 2013-03
         end_date: 2017-08
         highlights:
