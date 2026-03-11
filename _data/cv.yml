@@ -101,46 +101,46 @@ cv:
     #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #       - "Men of the year 2014 by Time magazine"
 
-Awards:
-  - title: Outstanding Reviewer (Top 10%)
-    date: 2025-02
-    awarder: KDD
-    summary: Recognized as an outstanding reviewer (top 10%) for KDD (February 2025).
-
-  - title: Outstanding Reviewer (Top 10%)
-    date: 2025-08
-    awarder: KDD
-    summary: Recognized as an outstanding reviewer (top 10%) for KDD (August 2025).
-
-  - title: Excellence in Character Scholarship
-    date: 2024
-    awarder: Excellence in Character Scholarship
-    summary: Scholarship award ($700).
-
-  - title: Young-Han Kim Global Leader Scholarship
-    date: 2024
-    awarder: Young-Han Kim Global Leader Scholarship
-    summary: Scholarship award ($2,800).
-
-  - title: Outstanding Teaching Assistant Award
-    date: 2023
-    awarder: School of Computing, KAIST
-    summary: Outstanding Teaching Assistant Award (Spring 2023).
-
-  - title: AAAI Conference on Artificial Intelligence Scholarship
-    date: 2023
-    awarder: AAAI
-    summary: Scholarship award ($500) for AAAI 2023.
-
-  - title: Scholarship
-    date: 2021
-    awarder: Department of Industrial and Systems Engineering, KAIST
-    summary: Department scholarship award ($700).
-
-  - title: FIELD Silver Award
-    date: 2016
-    awarder: Future Industrial Engineering Leaders and Dreamers Camp (FIELD)
-    summary: Silver Award at the Future Industrial Engineering Leaders and Dreamers Camp (FIELD).
+    Awards:
+      - title: Outstanding Reviewer (Top 10%)
+        date: 2025-02
+        awarder: KDD
+        summary: Recognized as an outstanding reviewer (top 10%) for KDD (February 2025).
+    
+      - title: Outstanding Reviewer (Top 10%)
+        date: 2025-08
+        awarder: KDD
+        summary: Recognized as an outstanding reviewer (top 10%) for KDD (August 2025).
+    
+      - title: Excellence in Character Scholarship
+        date: 2024
+        awarder: Excellence in Character Scholarship
+        summary: Scholarship award ($700).
+    
+      - title: Young-Han Kim Global Leader Scholarship
+        date: 2024
+        awarder: Young-Han Kim Global Leader Scholarship
+        summary: Scholarship award ($2,800).
+    
+      - title: Outstanding Teaching Assistant Award
+        date: 2023
+        awarder: School of Computing, KAIST
+        summary: Outstanding Teaching Assistant Award (Spring 2023).
+    
+      - title: AAAI Conference on Artificial Intelligence Scholarship
+        date: 2023
+        awarder: AAAI
+        summary: Scholarship award ($500) for AAAI 2023.
+    
+      - title: Scholarship
+        date: 2021
+        awarder: Department of Industrial and Systems Engineering, KAIST
+        summary: Department scholarship award ($700).
+    
+      - title: FIELD Silver Award
+        date: 2016
+        awarder: Future Industrial Engineering Leaders and Dreamers Camp (FIELD)
+        summary: Silver Award at the Future Industrial Engineering Leaders and Dreamers Camp (FIELD).
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
