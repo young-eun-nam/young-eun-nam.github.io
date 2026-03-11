@@ -65,9 +65,8 @@ cv:
         location: Seoul, Korea
         start_date: 2025-09
         end_date: 2025-12
-        summary: Conducted research on AI-driven financial data processing and modeling.
+        summary: Conducted research on AI-driven financial data modeling.
         highlights:
-          - Built preprocessing pipelines for large-scale language model training and evaluation
           - Supported time-series forecasting using structured and unstructured financial data
 
       - company: FitTogether Inc.
@@ -79,7 +78,7 @@ cv:
         highlights:
           - Produced user manuals and supported field operations at the 2018 K League U17/U18 Championship
           - Built crawling modules for K League K1/K2, R League, and ACL competition data
-          - Implemented foundational analytics workflows in Python (including a registration module)
+          - Implemented foundational analytics workflows in Python
 
       - company: Hyundai AutoEver
         position: Software Engineer
@@ -157,40 +156,40 @@ cv:
     #     summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Data-Centric
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Data Quality Issues for Deep Learning, Data-Centric AI, Mobility and Stream Data Mining, Deep Learning-Based Big Data Analysis, Large-Scale Distributed Deep Learning, Agentic AI, Time Series"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
 
     References:
-      - name: Professor John Doe
+      - name: [Prof. Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen)
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Professor at Mechanical & Industrial Engineering, University of Toronto, leading Optimization and Machine Learning Lab. 
 
-      - name: Professor Jane Smith
+      - name: [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil)
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Professor at School of Computing, Korea Advanced Institute of Science and Technology (KAIST), leading Data Mining Lab. 
