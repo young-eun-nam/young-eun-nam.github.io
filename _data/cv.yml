@@ -51,42 +51,46 @@ cv:
           - Cum Laude
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: KAIST Data Mining Lab
+        position: Postdoctoral Researcher
+        location: Daejeon, Korea
+        start_date: 2026-01
+        end_date: null
+        summary: Conducting research on data-centric machine learning, focusing on improving data quality, reliability, and efficiency under real operational constraints.
         highlights:
-          - Relativity
-          - Description 2.
+          - Worked with Prof. Jae-Gil Lee on data-centric ML for real-world systems
+          - Explored agentic approaches for adaptive data curation and monitoring
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: LG AI Research (Data Intelligence Lab)
+        position: Research Intern
+        location: Seoul, Korea
+        start_date: 2025-09
+        end_date: 2025-12
+        summary: Conducted research on AI-driven financial data processing and modeling.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Built preprocessing pipelines for large-scale language model training and evaluation
+          - Supported time-series forecasting using structured and unstructured financial data
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: FitTogether Inc.
+        position: Data Analyst
+        location: Seoul, Korea
+        start_date: 2018-09
+        end_date: 2019-11
+        summary: Contributed to launching a soccer data analytics web service based on wearable EPTS data and the OhCoach analytics platform.
+        highlights:
+          - Produced user manuals and supported field operations at the 2018 K League U17/U18 Championship
+          - Built crawling modules for K League K1/K2, R League, and ACL competition data
+          - Implemented foundational analytics workflows in Python (including a registration module)
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Hyundai AutoEver
+        position: Software Engineer
+        location: Seoul, Korea
+        start_date: 2017-01
+        end_date: 2017-12
+        summary: Worked in the IT Jobs Finance Team (Hyundai Card, Capital, Commercial) and contributed to enterprise platform development.
+        highlights:
+          - Developed features for a blockchain platform construction and service-challenge implementation project
+          - Collaborated with cross-functional teams to deliver production-ready modules
 
     Volunteer:
       - company: People's Climate March
