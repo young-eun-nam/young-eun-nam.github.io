@@ -30,7 +30,7 @@ cv:
         studyType: PhD
         start_date: 1900
         end_date: 1905
-        score: ""
+        score: 
         courses: "Theory of Relativity"
         highlights:
           - Description 1.
