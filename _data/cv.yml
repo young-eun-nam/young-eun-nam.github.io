@@ -1,6 +1,6 @@
 cv:
   name: Youngeun Nam
-  label: Postdoctoral Fellow
+  headline: Postdoctoral Fellow
   email: youngeun.nam@kaist.ac.kr
   location: Toronto, Canada
   summary: "An irreplaceable researcher driven by data-centric learning systems that stay reliable under real-world constraints"
@@ -51,6 +51,15 @@ cv:
           - Cum Laude
 
     Experience:
+      - company: University of Toronto (OptiMaL Lab)
+        position: Postdoctoral Fellow
+        location: Toronto, Canada
+        start_date: 2026-05
+        end_date: present
+        summary: Working on data-centric machine learning for real-world problems.
+        highlights:
+          - Worked with [Prof. Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen)
+          
       - company: KAIST Data Mining Lab
         position: Postdoctoral Researcher
         location: Daejeon, Korea
@@ -104,13 +113,13 @@ cv:
     Awards:
       - title: Outstanding Reviewer (Top 10%)
         date: 2025-02
-        awarder: KDD
-        summary: Recognized as an outstanding reviewer (top 10%) for KDD (February 2025).
+        awarder: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(February)
+        summary: Recognized as an outstanding reviewer (top 10%).
     
       - title: Outstanding Reviewer (Top 10%)
         date: 2025-08
-        awarder: KDD
-        summary: Recognized as an outstanding reviewer (top 10%) for KDD (August 2025).
+        awarder: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(August)
+        summary: Recognized as an outstanding reviewer (top 10%).
     
       - title: Excellence in Character Scholarship
         date: 2024
