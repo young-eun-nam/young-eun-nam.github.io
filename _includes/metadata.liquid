@@ -22,20 +22,23 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>
   {% if site.title == 'blank' %}
-    {% capture title %}{{ author_name }}{% endcapture %}
+    {% capture site_title %}{{ author_name }}{% endcapture %}
   {% else %}
-    {% capture title %}{{ site.title }}{% endcapture %}
+    {% capture site_title %}{{ site.title }}{% endcapture %}
   {% endif %}
+
+  {%- assign page_tab_title = page.tab_title | default: page.nav_title | default: page.title -%}
+
   {% if page.url == '/blog/index.html' %}
-    {{ page.title }} | {{ title }}
+    {{ page_tab_title }} | {{ site_title }}
   {% elsif page.title != 'blank' and page.url != '/' %}
-    {% if page.title == null or page.title == '' %}
-      {{ page.date | date: '%Y' }} | {{ title }}
+    {% if page_tab_title == null or page_tab_title == '' %}
+      {{ page.date | date: '%Y' }} | {{ site_title }}
     {% else %}
-      {{ page.title }} | {{ title }}
+      {{ page_tab_title }} | {{ site_title }}
     {% endif %}
   {% else %}
-    {{ title }}
+    {{ site_title }}
   {% endif %}
 </title>
 <meta name="author" content="{{ author_name }}">
