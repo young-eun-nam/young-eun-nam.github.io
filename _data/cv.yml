@@ -26,8 +26,8 @@ cv:
         location: Daejeon, Korea
         area: Computer Science
         studyType: Ph.D.
-        start_date: 2022-03
-        end_date: 2026-02
+        start_date: 2022-03-01
+        end_date: 2026-02-20
         highlights:
           - Under the supervision of [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil)
           - Data mining
@@ -36,8 +36,8 @@ cv:
         location: Daejeon, Korea
         area: Industrial and Systems Engineering (Graduate School of Data Science)
         studyType: M.S.
-        start_date: 2020-03
-        end_date: 2022-02
+        start_date: 2020-03-01
+        end_date: 2022-02-18
         highlights:
           - Under the supervision of [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil)
 
@@ -45,8 +45,8 @@ cv:
         location: Pohang, Korea
         area: Industrial and Management Engineering
         studyType: B.S.
-        start_date: 2013-03
-        end_date: 2017-08
+        start_date: 2013-03-01
+        end_date: 2017-02-28
         highlights:
           - Cum Laude
 
@@ -54,7 +54,7 @@ cv:
       - company: University of Toronto (OptiMaL Lab)
         position: Postdoctoral Fellow
         location: Toronto, Canada
-        start_date: 2026-05
+        start_date: 2026-05-04
         end_date: present
         summary: Working on data-centric machine learning for real-world problems.
         highlights:
@@ -63,8 +63,8 @@ cv:
       - company: KAIST Data Mining Lab
         position: Postdoctoral Researcher
         location: Daejeon, Korea
-        start_date: 2026-03
-        end_date: 2026-04
+        start_date: 2026-03-01
+        end_date: 2026-04-30
         summary: Conducted research on data-centric machine learning, focusing on improving data quality and reliability.
         highlights:
           - Worked with [Prof. Jae-Gil Lee](https://www.kaistdmlab.org/jaegil)
@@ -72,8 +72,8 @@ cv:
       - company: LG AI Research (Data Intelligence Lab)
         position: Research Intern
         location: Seoul, Korea
-        start_date: 2025-09
-        end_date: 2025-12
+        start_date: 2025-09-15
+        end_date: 2025-12-12
         summary: Conducted research on AI-driven financial data modeling.
         highlights:
           - Supported time-series forecasting using structured and unstructured financial data
@@ -81,8 +81,8 @@ cv:
       - company: FitTogether Inc.
         position: Data Analyst
         location: Seoul, Korea
-        start_date: 2018-09
-        end_date: 2019-11
+        start_date: 2018-09-01
+        end_date: 2019-11-30
         summary: Contributed to launching a soccer data analytics web service based on wearable EPTS data and the OhCoach analytics platform.
         highlights:
           - Produced user manuals and supported field operations at the 2018 K League U17/U18 Championship
@@ -92,8 +92,8 @@ cv:
       - company: Hyundai AutoEver
         position: Software Engineer
         location: Seoul, Korea
-        start_date: 2017-01
-        end_date: 2017-12
+        start_date: 2017-01-09
+        end_date: 2017-12-11
         summary: Worked in the IT Jobs Finance Team (Hyundai Card, Capital, Commercial) and contributed to enterprise platform development.
         highlights:
           - Developed features for a blockchain platform construction and service-challenge implementation project
@@ -112,42 +112,42 @@ cv:
 
     Awards:
       - title: Outstanding Reviewer (Top 10%)
-        date: 2025-02
+        date: 2025-02-01
         awarder: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(February)
         summary: Recognized as an outstanding reviewer (top 10%).
     
       - title: Outstanding Reviewer (Top 10%)
-        date: 2025-08
+        date: 2025-08-01
         awarder: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(August)
         summary: Recognized as an outstanding reviewer (top 10%).
     
       - title: Excellence in Character Scholarship
-        date: 2024
+        date: 2024-08-15
         awarder: Excellence in Character Scholarship
         summary: Scholarship award ($700).
     
       - title: Young-Han Kim Global Leader Scholarship
-        date: 2024
+        date: 2024-09-15
         awarder: Young-Han Kim Global Leader Scholarship
         summary: Scholarship award ($2,800).
     
       - title: Outstanding Teaching Assistant Award
-        date: 2023
+        date: 2023-06-30
         awarder: School of Computing, KAIST
         summary: Outstanding Teaching Assistant Award (Spring 2023).
     
       - title: AAAI Conference on Artificial Intelligence Scholarship
-        date: 2023
+        date: 2023-02-01
         awarder: The Association for the Advancement of Artificial Intelligence
         summary: Scholarship award ($500) for AAAI 2023.
     
       - title: Scholarship
-        date: 2021
+        date: 2021-07-30
         awarder: Department of Industrial and Systems Engineering, KAIST
         summary: Department scholarship award ($700).
     
       - title: FIELD Silver Award
-        date: 2016
+        date: 2016-08-10
         awarder: Future Industrial Engineering Leaders and Dreamers Camp (FIELD)
         summary: Silver Award at the Future Industrial Engineering Leaders and Dreamers Camp (FIELD).
 
