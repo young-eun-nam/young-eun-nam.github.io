@@ -91,7 +91,7 @@
                           class="dropdown-item {% if page.title == child.title %}active{% endif %}"
                           href="{% if child.permalink contains '://' %}{{ child.permalink }}{% else %}{{ child.permalink | relative_url }}{% endif %}"
                         >
-                          {{- child.title -}}
+                          {{- child.nav_title | default: child.title -}}
                         </a>
                       {% endif %}
                     {% endfor %}
