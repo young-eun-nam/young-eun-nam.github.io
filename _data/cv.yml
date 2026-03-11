@@ -192,7 +192,14 @@ cv:
     Interests:
       - name: Data Mining
         icon: fa-solid fa-tag
-        keywords: "Data Quality Issues for Deep Learning, Data-Centric AI, Mobility and Stream Data Mining, Deep Learning-Based Big Data Analysis, Large-Scale Distributed Deep Learning, Agentic AI, Time Series"
+        keywords:
+          - Data Quality Issues for Deep Learning
+          - Data-Centric AI
+          - Mobility and Stream Data Mining
+          - Deep Learning-Based Big Data Analysis
+          - Large-Scale Distributed Deep Learning
+          - Agentic AI
+          - Time Series
 
     # Certificates:
     #   - name: Machine Learning
