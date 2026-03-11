@@ -186,10 +186,10 @@ cv:
     #     end_date: 2018-01-01
 
     References:
-      - name: [Eldan Cohen](https://www.mie.utoronto.ca/faculty_staff/eldan-cohen)
+      - name: Professor Eldan Cohen
         icon: fa-solid fa-laptop
-        reference: Professor at Mechanical & Industrial Engineering, University of Toronto, leading Optimization and Machine Learning Lab. 
+        reference: Professor at Mechanical and Industrial Engineering Department, University of Toronto, leading Optimization and Machine Learning Lab. 
 
-      - name: [Jae-Gil Lee](https://www.kaistdmlab.org/jaegil)
+      - name: Professor Jae-Gil Lee
         icon: fa-solid fa-thumbtack
         reference: Professor at School of Computing, Korea Advanced Institute of Science and Technology (KAIST), leading Data Mining Lab. 
