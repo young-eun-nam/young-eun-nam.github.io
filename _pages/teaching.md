@@ -10,7 +10,7 @@ nav_order: 6
 calendar: true
 ---
 
-## courses
+## Courses
 - 2024 Fall - [CS584] Human-Computer Interaction (KAIST) <br/> — Advisor: Prof. Geehyuk Lee
 - 2023 Fall - [CS360] Introduction to Database (KAIST) <br/> — Advisor: Prof. Jae-Gil Lee
 - 2023 Spring - [CS564] Data Science Methodology (KAIST), *Outstanding Teaching Assistant Award* <br/> — Advisor: Prof. Jae-Gil Lee
