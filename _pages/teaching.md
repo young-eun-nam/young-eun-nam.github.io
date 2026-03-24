@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching assistant
+title: Teaching assistant
 description: # Course materials, schedules, and resources for classes taught.
 nav: true
-nav_title: teaching
-tab_title: teaching
+nav_title: Teaching
+tab_title: Teaching
 nav_order: 6
 calendar: true
 ---
