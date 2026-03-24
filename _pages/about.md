@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Fellow, <a href='https://www.utoronto.ca'>University of Toronto</a>. Irreplaceable.
 
