@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching-assistant",
-          title: "teaching assistant",
+          title: "Teaching assistant",
           description: "",
           section: "Navigation",
           handler: () => {
