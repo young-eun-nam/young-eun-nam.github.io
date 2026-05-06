@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-05-06'
 papers:
   Cz1zyRsAAAAJ:0EnyYjriUFMC:
-    citations: 5
+    citations: 6
     title: Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate
     year: '2024'
   Cz1zyRsAAAAJ:3fE2CSJIrl8C:
@@ -18,7 +18,7 @@ papers:
     title: Method and apparatus for predicting imported infectious disease information based on deep neural networks
     year: '2022'
   Cz1zyRsAAAAJ:MXK_kJrjxJIC:
-    citations: 65
+    citations: 72
     title: 'Universal time-series representation learning: A survey'
     year: '2024'
   Cz1zyRsAAAAJ:Se3iqnhoufwC:
@@ -46,11 +46,11 @@ papers:
     title: 'ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning'
     year: '2021'
   Cz1zyRsAAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 1
     title: Mitigating Source Label Dependency in Time-Series Domain Adaptation under Label Shifts
     year: '2025'
   Cz1zyRsAAAAJ:hqOjcs7Dif8C:
-    citations: 60
+    citations: 67
     title: Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection
     year: '2024'
   Cz1zyRsAAAAJ:kNdYIx-mwKoC:
@@ -62,10 +62,10 @@ papers:
     title: An Empirical Investigation of Deep Learning Models for Defect Classification in Solar Cells Electroluminescence
     year: '2023'
   Cz1zyRsAAAAJ:u-x6o8ySG0sC:
-    citations: 44
+    citations: 46
     title: 'Hi-COVIDNet: Deep learning approach to predict inbound COVID-19 patients and case study in South Korea'
     year: '2020'
   Cz1zyRsAAAAJ:zYLM7Y9cAGgC:
-    citations: 9
+    citations: 10
     title: 'COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies'
     year: '2022'
