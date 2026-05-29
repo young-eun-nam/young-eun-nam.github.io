@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-29'
 papers:
   Cz1zyRsAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -18,7 +18,7 @@ papers:
     title: Method and apparatus for predicting imported infectious disease information based on deep neural networks
     year: '2022'
   Cz1zyRsAAAAJ:MXK_kJrjxJIC:
-    citations: 72
+    citations: 74
     title: 'Universal time-series representation learning: A survey'
     year: '2024'
   Cz1zyRsAAAAJ:Se3iqnhoufwC:
@@ -50,7 +50,7 @@ papers:
     title: Mitigating Source Label Dependency in Time-Series Domain Adaptation under Label Shifts
     year: '2025'
   Cz1zyRsAAAAJ:hqOjcs7Dif8C:
-    citations: 67
+    citations: 71
     title: Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection
     year: '2024'
   Cz1zyRsAAAAJ:kNdYIx-mwKoC:
