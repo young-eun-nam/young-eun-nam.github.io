@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-10'
 papers:
   Cz1zyRsAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -18,15 +18,15 @@ papers:
     title: Method and apparatus for predicting imported infectious disease information based on deep neural networks
     year: '2022'
   Cz1zyRsAAAAJ:MXK_kJrjxJIC:
-    citations: 85
+    citations: 86
     title: 'Universal time-series representation learning: A survey'
     year: '2024'
   Cz1zyRsAAAAJ:Se3iqnhoufwC:
-    citations: 10
+    citations: 11
     title: Context-Aware Deep Time-Series Decomposition for Anomaly Detection in Businesses
     year: '2023'
   Cz1zyRsAAAAJ:Tyk-4Ss8FVUC:
-    citations: 5
+    citations: 6
     title: 'Anoviz: a visual inspection tool of anomalies in multivariate time series'
     year: '2023'
   Cz1zyRsAAAAJ:W7OEmFMy1HYC:
@@ -46,11 +46,15 @@ papers:
     title: 'ActiveBoostThief: Model Extraction Attack Using Reliable Active Learning'
     year: '2021'
   Cz1zyRsAAAAJ:Zph67rFs4hoC:
-    citations: 1
+    citations: 2
     title: Mitigating Source Label Dependency in Time-Series Domain Adaptation under Label Shifts
     year: '2025'
+  Cz1zyRsAAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: 'QuDAR: Query-Wise Dual-Perspective Adaptive Retrieval'
+    year: '2026'
   Cz1zyRsAAAAJ:hqOjcs7Dif8C:
-    citations: 79
+    citations: 82
     title: Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection
     year: '2024'
   Cz1zyRsAAAAJ:kNdYIx-mwKoC:
