@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-10'
 papers:
   Cz1zyRsAAAAJ:0EnyYjriUFMC:
     citations: 6
     title: Semi-Supervised Learning for Time Series Collected at a Low Sampling Rate
     year: '2024'
   Cz1zyRsAAAAJ:3fE2CSJIrl8C:
-    citations: 3
+    citations: 0
     title: Method and apparatus for predicting imported infectious disease information based on deep neural networks
-    year: '2023'
+    year: '2022'
+  Cz1zyRsAAAAJ:4TOpqqG69KYC:
+    citations: 5
+    title: 'Universal time-series representation learning: A survey. arXiv 2024'
+    year: Unknown Year
   Cz1zyRsAAAAJ:KlAtU1dfN6UC:
     citations: 0
     title: Bi-Modal Learning for Networked Time Series
@@ -18,11 +22,11 @@ papers:
     title: Method and apparatus for predicting imported infectious disease information based on deep neural networks
     year: '2022'
   Cz1zyRsAAAAJ:MXK_kJrjxJIC:
-    citations: 87
+    citations: 91
     title: 'Universal time-series representation learning: A survey'
     year: '2024'
   Cz1zyRsAAAAJ:Se3iqnhoufwC:
-    citations: 11
+    citations: 13
     title: Context-Aware Deep Time-Series Decomposition for Anomaly Detection in Businesses
     year: '2023'
   Cz1zyRsAAAAJ:Tyk-4Ss8FVUC:
@@ -47,14 +51,14 @@ papers:
     year: '2021'
   Cz1zyRsAAAAJ:Zph67rFs4hoC:
     citations: 2
-    title: Mitigating Source Label Dependency in Time-Series Domain Adaptation under Label Shifts
+    title: Mitigating source label dependency in time-series domain adaptation under label shifts
     year: '2025'
   Cz1zyRsAAAAJ:_kc_bZDykSQC:
     citations: 0
     title: 'QuDAR: Query-Wise Dual-Perspective Adaptive Retrieval'
     year: '2026'
   Cz1zyRsAAAAJ:hqOjcs7Dif8C:
-    citations: 85
+    citations: 94
     title: Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection
     year: '2024'
   Cz1zyRsAAAAJ:kNdYIx-mwKoC:
@@ -66,7 +70,7 @@ papers:
     title: An Empirical Investigation of Deep Learning Models for Defect Classification in Solar Cells Electroluminescence
     year: '2023'
   Cz1zyRsAAAAJ:u-x6o8ySG0sC:
-    citations: 46
+    citations: 47
     title: 'Hi-COVIDNet: Deep learning approach to predict inbound COVID-19 patients and case study in South Korea'
     year: '2020'
   Cz1zyRsAAAAJ:zYLM7Y9cAGgC:
