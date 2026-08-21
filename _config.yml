@@ -297,11 +297,8 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
-  sort_by: none
-  group_by: year
-  group_order: descending
-
   query: "@*"
+  sort_by: none
   group_by: year
   group_order: descending
 
