@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-21'
 papers:
   Cz1zyRsAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -58,7 +58,7 @@ papers:
     title: 'QuDAR: Query-Wise Dual-Perspective Adaptive Retrieval'
     year: '2026'
   Cz1zyRsAAAAJ:hqOjcs7Dif8C:
-    citations: 94
+    citations: 95
     title: Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection
     year: '2024'
   Cz1zyRsAAAAJ:kNdYIx-mwKoC:
